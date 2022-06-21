@@ -3,7 +3,7 @@ ofxMultiSpeakerSoundPlayer
 
 8 channel audio output for openFrameworks
 
-Updated to openFrameworks 0.9+
+Updated to openFrameworks 0.10+
 
 Remember to configure your windows system to 7.1 audio output.
 
